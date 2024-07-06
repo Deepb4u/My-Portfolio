@@ -1,0 +1,83 @@
+
+header {
+    background-color: #F8F9FA;
+    background: linear-gradient( to top,#f8f9fad8, #a8a9a9af);
+    padding: 10px 0;
+}
+
+.banner {
+    /* background-color: #f8f8f8;  */
+    /* background: linear-gradient( to right, #ada9a9, #f8f8f8); */
+    padding: 50px 0;
+    
+}
+
+.about {
+    background-color: #f4f5f5; 
+    padding: 40px 0;
+    margin-top: 40px;
+}
+.about-p{
+    padding: 20px;
+}
+
+.skill {
+    background-color: #f4f5f5;
+    border: 1px solid #cbc6c6;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.resume-item {
+    background-color: #f4f5f5;
+    border: 1px solid #cbc6c6;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.footer {
+    background-color: #343a40; 
+    color: #ffffff;
+    /* padding: 40px 0; */
+}
+
+.footer a {
+    color: #ffffff;
+}
+
+.footer a:hover {
+    color: #adb5bd;
+}
+
+.btn-primary {
+    background-color: #4A4A4A;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #575757b5;
+}
+a{
+    text-decoration: none;
+}
+.text-primary{
+    color: #4A4A4A;
+}
+/* Footer Styles */
+.footer {
+    background-color: #343a40; /* Dark background color */
+    color: #ffffff; /* White text color */
+    /* padding:  */
+    height: 50px;
+}
+
+.footer p {
+    margin: 0;
+}
+.footer1{
+
+    background: linear-gradient( to bottom,#f8f9fad8, #a8a9a9af);
+}
+
