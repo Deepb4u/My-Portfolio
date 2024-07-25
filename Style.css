@@ -118,3 +118,14 @@ header {
         justify-content: space-evenly                       ;
     }
 }
+@media (max-width: 900px){
+    .my-Education{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+
+    .my-Education .resume-item{
+        width: 100%;
+    }
+}
